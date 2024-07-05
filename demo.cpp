@@ -1,5 +1,5 @@
 #include<iostream>
-  using namespase std;
+  using namespace std;
 int main (){
   cout<<"demo";
   
